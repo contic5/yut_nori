@@ -1,0 +1,23 @@
+h1
+{
+    font-size: 48px;
+}
+body
+{
+    color: #caa472;
+    background-color: #855E42;
+}
+.boardspace
+{
+    background-color: brown;
+}
+.shortcut
+{
+    background-color: darkred;
+}
+td
+{
+    text-align: center;
+    min-width: 120px;
+    height: 120px;
+}
